@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "ASIAN KUNG-FU GENERATION　『アフターダーク』",
+  "base_artist": "ASIAN KUNG-FU GENERATION",
+  "createdAt": "2026-02-15T14:59:51.567320Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Haruka Kanata (Asian Kung-Fu Generation cover)",
+      "artist": "PelleK",
+      "has_synced": false,
+      "path": "select/01_Haruka_Kanata_(Asian_Kung-Fu_Generation_cover)_PelleK.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Asian Kung Fu Generation - Haruka Kanata (Naruto)",
+      "artist": "div. Interpret",
+      "has_synced": true,
+      "path": "select/02_Asian_Kung_Fu_Generation_-_Haruka_Kanata_(Naruto)_div._Interpret.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ASIAN KUNG-FU GENERATION / リライト",
+      "artist": "ASIAN KUNG-FU GENERATION / リライト",
+      "has_synced": true,
+      "path": "select/03_ASIAN_KUNG-FU_GENERATION___リライト_ASIAN_KUNG-FU_GENERATION___リライト.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wake Up! (Feat. Asian Kung-Fu Generation)",
+      "artist": "Tokyo Ska Paradise Orchestra",
+      "has_synced": true,
+      "path": "select/04_Wake_Up!_(Feat._Asian_Kung-Fu_Generation)_Tokyo_Ska_Paradise_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ASIAN KUNG-FU GENERATION　『アフターダーク』",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/05_ASIAN_KUNG-FU_GENERATION_『アフターダーク』_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wake Up! feat. ASIAN KUNG-FU GENERATION",
+      "artist": "東京スカパラダイスオーケストラ",
+      "has_synced": true,
+      "path": "select/06_Wake_Up!_feat._ASIAN_KUNG-FU_GENERATION_東京スカパラダイスオーケストラ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ASIAN KUNG-FU GENERATION - Haruka Kanata",
+      "artist": "Asian Kung-Fu Generation",
+      "has_synced": true,
+      "path": "select/07_ASIAN_KUNG-FU_GENERATION_-_Haruka_Kanata_Asian_Kung-Fu_Generation.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ASIAN KUNG-FU GENERATION　『ループ＆ループ』",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/08_ASIAN_KUNG-FU_GENERATION_『ループ&ループ』_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wake Up! (feat. Asian Kung-Fu Generation)",
+      "artist": "東京スカパラダイスオーケストラ feat. ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/09_Wake_Up!_(feat._Asian_Kung-Fu_Generation)_東京スカパラダイスオーケストラ_feat._ASIAN_KUNG-FU_GENERATION.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wake Up! feat.ASIAN KUNG-FU GENERATION [2020 Remaster]",
+      "artist": "東京スカパラダイスオーケストラ",
+      "has_synced": true,
+      "path": "select/10_Wake_Up!_feat.ASIAN_KUNG-FU_GENERATION_[2020_Remaster]_東京スカパラダイスオーケストラ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wake Up! feat. ASIAN KUNG-FU GENERATION -Instrumental-",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/11_Wake_Up!_feat._ASIAN_KUNG-FU_GENERATION_-Instrumental-_Various.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Haruka Kanata (Cover) [From anime \"Naruto\"] [Originally Performed by Asian Kung Fu Generation]",
+      "artist": "RUKI",
+      "has_synced": true,
+      "path": "select/12_Haruka_Kanata_(Cover)_[From_anime__Naruto_]_[Originally_Performed_by_Asian_Kung__RUKI.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wake Up! (2020 Remaster) (feat. ASIAN KUNG-FU GENERATION)",
+      "artist": "Tokyo Ska Paradise Orchestra",
+      "has_synced": true,
+      "path": "select/13_Wake_Up!_(2020_Remaster)_(feat._ASIAN_KUNG-FU_GENERATION)_Tokyo_Ska_Paradise_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Haruka Kanata (Originally Performed By Asian Kung-Fu Generation) (Naruto Best Hit Collection)",
+      "artist": "Save up for a rainy day",
+      "has_synced": true,
+      "path": "select/14_Haruka_Kanata_(Originally_Performed_By_Asian_Kung-Fu_Generation)_(Naruto_Best_Hi_Save_up_for_a_rainy_day.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "After Dark [アフターダーク]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/15_After_Dark_[アフターダーク]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "アフターダーク",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/16_アフターダーク_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "アフターダーク",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/17_アフターダーク_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "アフターダーク",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/18_アフターダーク_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "アフターダーク",
+      "artist": "ASIAN KUNG‐FU GENERATION",
+      "has_synced": true,
+      "path": "select/19_アフターダーク_ASIAN_KUNG‐FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "アフターダーク",
+      "artist": "For Tracy Hyde",
+      "has_synced": true,
+      "path": "select/20_アフターダーク_For_Tracy_Hyde.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "After Dark (アフターダーク \"Afutā Dāku\")",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/21_After_Dark_(アフターダーク__Afutā_Dāku_)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "アフターダーク - After Dark",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/22_アフターダーク_-_After_Dark_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "アフターダーク",
+      "artist": "For Tracy Hyde",
+      "has_synced": true,
+      "path": "select/23_アフターダーク_For_Tracy_Hyde.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "アフターダーク",
+      "artist": "家入レオ",
+      "has_synced": false,
+      "path": "select/24_アフターダーク_家入レオ.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "アフターダーク (Live @ Jisan Valley Rock Festival 2009, Korea)",
+      "artist": "Asian Kung-Fu Generation",
+      "has_synced": true,
+      "path": "select/25_アフターダーク_(Live_@_Jisan_Valley_Rock_Festival_2009,_Korea)_Asian_Kung-Fu_Generation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アフターダーク",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/pl_01_アフターダーク_ASIAN_KUNG-FU_GENERATION.txt"
+    }
+  ]
+}
